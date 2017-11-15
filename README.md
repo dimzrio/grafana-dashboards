@@ -38,7 +38,7 @@ Template for visualize resources monitoring with metrics [node-exporter](https:/
 - Percentage Disk
 - Memory Usage
 - Disk Usage
-- Disk I/O Per Devices
+- Disk I/O Devices
 - Read/Write
 - Network Usage
 - Repeat Panel
