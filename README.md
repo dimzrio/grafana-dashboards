@@ -45,7 +45,9 @@ Template for visualize resources monitoring with metrics [node-exporter](https:/
 
 <h6> Installation </h6>
 Create variable for get all node for repeat pannel. **Manage dashboard > Templating > New** 
+
 ![Create Variable](https://1.bp.blogspot.com/-QIfke_6C6UM/WgwIyDyN3JI/AAAAAAAADAM/IV9lOQPHhE0mHpKN2gWMqpW35I3ckZKxQCLcBGAs/s1600/Setup%2Btemplate%2Bmonitoring.PNG)
 
 <h6> Dashboard </h6>
+
 ![Grafana Template for Node exporter](https://4.bp.blogspot.com/-6yyWTAxzmaA/WgwI1sgcUPI/AAAAAAAADAQ/xwqooD1P3CYSGcuAYcTFlOJeNmM-s24IwCLcBGAs/s1600/dimzrio-github.PNG)
